@@ -4,7 +4,7 @@
   </head>
   <body>
     <?php
-      echo "Paco es un campeon!!!!";
+      echo "Paco lo que es, es un gran profe!!!!";
     ?>
   </body>
 </html>
